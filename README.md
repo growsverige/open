@@ -9,8 +9,8 @@ In progress
 
 ## Files
 
-* [open specification 0.1](https://github.com/growsverige/open-specification-01)
-* [WTF is open energy protocol?](https://github.com/growsverige/)
+* [open specification 0.1](https://github.com/growsverige/open/blob/main/open-specification-01.md)
+* [[WTF is open energy protocol?](https://github.com/growsverige/open/blob/main/wtf-is-open-energy-protocol.md)
 
 
 ## License
