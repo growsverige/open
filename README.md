@@ -9,7 +9,7 @@ In progress
 
 ## Files
 
-* [README.md](https://github.com/rikardlinde/udacity/blob/main/Writing%20READMEs/README.md)
+* [open specification 0.1](https://github.com/growsverige/open-specification-01)
 
 
 ## License
