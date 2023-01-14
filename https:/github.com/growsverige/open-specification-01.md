@@ -25,6 +25,6 @@
 
 ### storageCapacity
 #### Description
-Battery's capacity specified in kilowatt (kw).
+Battery capacity specified in kilowatthours (kWh).
 #### Example
 _1200_
