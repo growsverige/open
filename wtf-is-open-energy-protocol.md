@@ -1,4 +1,4 @@
-# The Emerging Battery Society
+# The Battery Society
 
 So we're starting to see a Battery Society emerge. 
 
