@@ -10,7 +10,7 @@ In progress
 ## Files
 
 * [open specification 0.1](https://github.com/growsverige/open/blob/main/open-specification-01.md)
-* [WTF is open energy protocol?](https://github.com/growsverige/open/blob/main/wtf-is-open-energy-protocol.md)
+* [The Emerging Battery Society](https://github.com/growsverige/open/blob/main/wtf-is-open-energy-protocol.md)
 
 
 ## License
