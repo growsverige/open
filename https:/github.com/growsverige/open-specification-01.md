@@ -6,8 +6,8 @@
 
 # Elements
 ## Status
-* Storage Capacity
-* Current Capacity
+* storageCapacity
+* currentCapacity
 * Speed of Transmission
 * Type of Connection
 * Price
