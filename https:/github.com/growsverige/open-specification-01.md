@@ -21,7 +21,8 @@
 ## Connection
 * Connected to... list of batteries/ resources
 * Possible connections
-* 
+
+=======
 
 ### storageCapacity
 #### Description
