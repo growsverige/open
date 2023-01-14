@@ -22,3 +22,9 @@
 * Connected to... list of batteries/ resources
 * Possible connections
 * 
+
+### storageCapacity
+#### Description
+Battery's capacity specified in kilowatt (kw).
+#### Example
+_1200_
