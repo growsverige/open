@@ -9,7 +9,7 @@
 ### Status
 * storageCapacity
 * currentCapacity
-* Speed of Transmission
+* speedOfTransmission
 * Type of Connection
 * Price
 * Terms of Purchase
@@ -24,13 +24,13 @@
 * Possible connections
 
 
-### storageCapacity
+### <storageCapacity>
 #### Description
 Total battery capacity specified in kilowatthours (kWh).
 #### Example
 _1200_
 
-### currentCapacity
+### <currentCapacity>
 #### Description
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
