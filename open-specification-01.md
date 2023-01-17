@@ -1,7 +1,7 @@
 # open specification 0.1
 ## What is open?
 
-**open** is a set of rules for communication between batteries. open is short for **open energy protocol**. It shows which information batteries send and receive when they communicate with each other.
+**open**, short for _open energy protocol_, is a set of rules for communication between batteries. It shows which information batteries send and receive when they communicate.
 
 **open is an XML dialect**. All open files must adhere to XML 1.0 specification (http://www.w3.org/TR/REC-xml), published at the World Wide Web Consortium (W3C) website.
 
