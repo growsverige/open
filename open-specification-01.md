@@ -6,7 +6,7 @@
 **open is an XML dialect**. All open files must adhere to XML 1.0 specification (http://www.w3.org/TR/REC-xml), published at the World Wide Web Consortium (W3C) website.
 
 ## Elements
-### Status
+
 * storageCapacity
 * currentCapacity
 * speedOfTransmission
@@ -16,10 +16,10 @@
 * License (cc)
 * vad batteriet kan ta emot
 * vad batteriet kan skicka
-### Transfer
+
 * Receiving (när ett batteri tar emot elektricitet)
 * Sending (när ett batteri skickar elektricitet)
-### Connection
+8
 * Connected to... list of batteries/ resources
 * Possible connections
 
