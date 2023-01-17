@@ -30,7 +30,7 @@ Total battery capacity specified in kilowatthours (kWh).
 #### Example
 _1200_
 
-### currentCapacity
+### \<currentCapacity\>
 #### Description
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
