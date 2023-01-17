@@ -24,7 +24,7 @@
 * Possible connections
 
 
-### storageCapacity
+### \<storageCapacity\>
 #### Description
 Total battery capacity specified in kilowatthours (kWh).
 #### Example
