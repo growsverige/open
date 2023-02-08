@@ -34,7 +34,7 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 Uniform resource identifier. 
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
 #### Example
-
+open://
 
 ### \<storageCapacity\>
 #### Description
