@@ -31,10 +31,9 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 
 ### \<uri\>
 #### Description
-Uniform resource identifier. 
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
+[Uniform resource identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) for a battery.
 #### Example
-open://
+open://123.456.789
 
 ### \<storageCapacity\>
 #### Description
@@ -47,6 +46,13 @@ _1200_
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
 _500_
+
+
+* speedOfTransmission
+* connectionType
+* price
+* termsOfPurchase
+* license
 
 ### \<receiving\>
 #### Description
