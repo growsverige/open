@@ -15,6 +15,7 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 
 ## Elements
 
+* uri
 * storageCapacity
 * currentCapacity
 * speedOfTransmission
@@ -26,6 +27,13 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 * sending
 * connectedTo
     
+
+
+### \<uri\>
+#### Description
+Uniform resource identifier. 
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
+#### Example
 
 
 ### \<storageCapacity\>
@@ -40,7 +48,19 @@ Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
 _500_
 
+### \<receiving\>
+#### Description
+Battery is receiving electricity.
+#### Example
+Yes
 
- receiving (när ett batteri tar emot elektricitet)
-* sending (när ett batteri skickar elektricitet)
-* connectedTo list of batteries/ resources
+### \<sending\>
+#### Description
+Battery is sending electricity.
+#### Example
+No
+
+### \<connectedTo\>
+#### Description
+List of batteries/ resources the battery is connected to.
+#### Example
