@@ -18,18 +18,13 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 * storageCapacity
 * currentCapacity
 * speedOfTransmission
-* Type of Connection
-* Price
-* Terms of Purchase
-* License (cc)
-* vad batteriet kan ta emot
-* vad batteriet kan skicka
-
-* Receiving (när ett batteri tar emot elektricitet)
-* Sending (när ett batteri skickar elektricitet)
-
-* Connected to... list of batteries/ resources
-* Possible connections
+* connectionType
+* price
+* termsOfPurchase
+* license
+* receiving
+* sending
+* connectedTo
     
 
 
@@ -44,3 +39,8 @@ _1200_
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
 _500_
+
+
+ receiving (när ett batteri tar emot elektricitet)
+* sending (när ett batteri skickar elektricitet)
+* connectedTo list of batteries/ resources
