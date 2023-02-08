@@ -5,6 +5,10 @@
 
 **open is an XML dialect**. All open files must adhere to XML 1.0 specification (http://www.w3.org/TR/REC-xml), published at the World Wide Web Consortium (W3C) website.
 
+## License
+
+open specification 0.1 is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/)
+
 ## Elements
 
 * storageCapacity
