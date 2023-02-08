@@ -1,9 +1,13 @@
 # open specification 0.1
 ## What is open?
 
-**open**, short for _open energy protocol_, is a set of rules for communication between batteries. It shows which information batteries can send and receive.
+**open**, short for _open energy protocol_, is a set of rules for communication between batteries. The protocol shows which information batteries can send and receive.
 
 **open is an XML dialect**. All open files must adhere to XML 1.0 specification (http://www.w3.org/TR/REC-xml), published at the World Wide Web Consortium (W3C) website.
+
+## Purpose
+
+The purpose of the protocol is to enable communication between batteries as well as transfer of electricity to and from a battery.
 
 ## License
 
@@ -39,3 +43,21 @@ _1200_
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
 _500_
+
+
+
+
+
+    när ett batteri tar emot elektricitet
+    när ett batteri skickar elektricitet
+    total lagringskapacitet
+    kapacitet just nu
+    överföringshastighet
+    vad batteriet kan ta emot
+    vad batteriet kan skicka
+    vilken sorts anslutning
+    pris/ avtalsvillkor
+    licens för denna information (cc)
+
+
+
