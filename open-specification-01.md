@@ -27,9 +27,10 @@ open specification 0.1 is licensed under the [Creative Commons Attribution 4.0 I
 
 * Receiving (när ett batteri tar emot elektricitet)
 * Sending (när ett batteri skickar elektricitet)
-8
+
 * Connected to... list of batteries/ resources
 * Possible connections
+    
 
 
 ### \<storageCapacity\>
@@ -43,21 +44,3 @@ _1200_
 Battery's **current** capacity specified in kilowatthours (kWh).
 #### Example
 _500_
-
-
-
-
-
-    när ett batteri tar emot elektricitet
-    när ett batteri skickar elektricitet
-    total lagringskapacitet
-    kapacitet just nu
-    överföringshastighet
-    vad batteriet kan ta emot
-    vad batteriet kan skicka
-    vilken sorts anslutning
-    pris/ avtalsvillkor
-    licens för denna information (cc)
-
-
-
