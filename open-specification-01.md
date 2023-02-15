@@ -7,7 +7,7 @@
 
 ## Purpose
 
-The purpose of the protocol is to enable communication between batteries as well as transfer of electricity to and from a battery.
+The purpose of the protocol is to enable communication between batteries supporting transfer of electricity to and from a battery.
 
 ## License
 
